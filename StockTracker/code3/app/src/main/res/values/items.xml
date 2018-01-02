@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="displayitems">
+        <item>coke</item>
+        <item>lays</item>
+        <item>snickers</item>
+        <item>minuteMaid</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="supplierlist">
+        <item>Viand Groups</item>
+        <item>Kickshaw</item>
+        <item>Cate Groups</item>
+        <item>Heritage Foods</item>
+        <item>Vittles Company</item>
+        <item>Hopkin Brothers</item>
+        <item>Agro Groups</item>
+        <item>Sweet Times</item>
+        <item>Crunchers Groups</item>
+        <item>Gobble</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Vendo</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="cart">Cart</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_grid">GridActivity</string>
+    <string name="title_activity_supplier">SupplierActivity</string>
+    <string name="orders">Orders</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="logout">logout</string>
+    <string name="about_headline">About</string>
+    <string name="about_text">The vending machine expert is an automation app that helps you order stock for your vending machine with just one click. We provide you with stock, their availability and the prospective suppliers that you can choose from. Sai Jyothi Lanka and Shruthika Vangala are the authors.</string>
+    <string name="notifications">Notifications</string>
+    <string name="help">Help</string>
+</resources>
+
